@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm a Machine Learning Engineer from South Africa<br><br>- 🔭 I’m currently working more on my ML skills<br>- 📚 I'm currently learning LLMOps and System Design<br>- ⚡ In my free time I read books and watch anime</p>
+<p align="left">I'm a Machine Learning Engineer from South Africa<br><br>- 🔭 I’m currently working more on my ML skills<br>- 📚 I'm currently learning RAG and ML Systems<br>- ⚡ In my free time I read books and watch anime</p>
 
 ###
 
